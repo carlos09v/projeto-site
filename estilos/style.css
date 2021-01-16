@@ -5,12 +5,15 @@ body{
                 font-size: 20px;
 }
 h1{
-    color: rgb(81, 194, 70);
+    color: rgb(89, 189, 80);
 }
 h2{
     color: darkred;
-    text-decoration: underline;
 }
 p{
     text-align: justify;
+}
+li{
+    color: black;
+
 }
