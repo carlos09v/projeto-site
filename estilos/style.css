@@ -5,10 +5,11 @@ body{
                 font-size: 20px;
 }
 h1{
-    color: rgb(111, 182, 105);
+    color: rgb(18, 29, 17);
 }
 h2{
     color: darkred;
+    text-decoration: underline;
 }
 p{
     text-align: justify;
